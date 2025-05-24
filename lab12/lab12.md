@@ -100,4 +100,5 @@ UDP, а также выводит количество потерянных па
 <img src="images/port-translator.png" width=600 />
 
 #### Демонстрация работы
-todo
+![image](https://github.com/user-attachments/assets/4905fef7-09e1-4dae-a805-9b374146daa9)
+
