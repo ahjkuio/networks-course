@@ -27,7 +27,7 @@ Final state of router 198.71.243.61 table:
 Приведите скрин или лог работы программы.
 
 #### Демонстрация работы
-todo
+Под заданием Б
 
 ### Задание Б (1 балл)
 Выведите на консоль промежуточные этапы работы протокола: по каждому маршрутизатору
@@ -43,7 +43,11 @@ Simulation step 3 of router 42.162.54.248
 ```
 
 #### Демонстрация работы
-todo
+![image](https://github.com/user-attachments/assets/6dbe56f3-6dd2-4e58-ade3-c7958857a8ae)
+![image](https://github.com/user-attachments/assets/de996287-7cc1-493f-a770-0a14b9b0fd25)
+![image](https://github.com/user-attachments/assets/db5e8ab9-4977-45ef-beb9-85f697246d1f)
+![image](https://github.com/user-attachments/assets/5d5c648c-301a-417d-9a32-1a9f587b6ef0)
+
 
 ### Задание В (2 балла)
 
@@ -52,6 +56,7 @@ todo
 
 Бонус: Не используйте общую память, а вместо этого реализуйте общение потоков через 
 сокеты **(+3 балла)**.
+![image](https://github.com/user-attachments/assets/e108ab63-4e13-4a8f-a06b-bffa8096497a)
 
 ## Скорость передачи (6 баллов)
 Реализуйте программу, которая измеряет скорость передачи информации по протоколам TCP и
@@ -70,7 +75,8 @@ UDP, а также выводит количество потерянных па
 <img src="images/tcp.png" width=700 />
 
 #### Демонстрация работы
-todo
+![image](https://github.com/user-attachments/assets/e740a1ed-b29f-481b-b898-e3fd983756aa)
+
 
 ### 2. Измерение по протоколу UDP (3 балла)
 Пример интерфейса:
@@ -78,7 +84,8 @@ todo
 <img src="images/udp.png" width=700 />
 
 #### Демонстрация работы
-todo
+![image](https://github.com/user-attachments/assets/db210265-0952-4375-930f-7d76310672e3)
+
    
 
 ## Транслятор портов (6 баллов)
@@ -93,4 +100,5 @@ todo
 <img src="images/port-translator.png" width=600 />
 
 #### Демонстрация работы
-todo
+![image](https://github.com/user-attachments/assets/4905fef7-09e1-4dae-a805-9b374146daa9)
+
