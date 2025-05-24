@@ -75,7 +75,8 @@ UDP, а также выводит количество потерянных па
 <img src="images/tcp.png" width=700 />
 
 #### Демонстрация работы
-todo
+![image](https://github.com/user-attachments/assets/e740a1ed-b29f-481b-b898-e3fd983756aa)
+
 
 ### 2. Измерение по протоколу UDP (3 балла)
 Пример интерфейса:
@@ -83,7 +84,8 @@ todo
 <img src="images/udp.png" width=700 />
 
 #### Демонстрация работы
-todo
+![image](https://github.com/user-attachments/assets/db210265-0952-4375-930f-7d76310672e3)
+
    
 
 ## Транслятор портов (6 баллов)
