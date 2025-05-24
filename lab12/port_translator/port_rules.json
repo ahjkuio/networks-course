@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Neverssl",
+    "listen_ip": "127.0.0.1",
+    "listen_port": 12345,
+    "target_host": "neverssl.com", 
+    "target_port": 80
+  },
+  {
+    "name": "Google",
+    "listen_ip": "127.0.0.1",
+    "listen_port": 12346,
+    "target_host": "google.com",
+    "target_port": 80
+  },
+  {
+    "name": "Wikipedia",
+    "listen_ip": "127.0.0.1",
+    "listen_port": 12347,
+    "target_host": "wikipedia.org",
+    "target_port": 80
+  },
+  {
+    "name": "HttpBin",
+    "listen_ip": "127.0.0.1",
+    "listen_port": 12348,
+    "target_host": "httpbin.org",
+    "target_port": 80
+  }
+] 
