@@ -62,7 +62,23 @@
 запросы и ответы со стороны сервиса для **всех** его операций.
 
 #### Демонстрация работы
-todo
+1) Добавление нового продукта (POST /product)
+![1](https://github.com/user-attachments/assets/b9ed83eb-1d87-40c8-a04e-a47a7a2af6ff)
+
+2) Получение существующего продукта по `id` (GET /product/1)
+![2](https://github.com/user-attachments/assets/98c6eac7-b422-4560-9867-044386f05a2c)
+
+3) Получение списка продуктов (GET /products)
+![3](https://github.com/user-attachments/assets/fa90cca7-57b0-4585-ba70-92dee48f2869)
+
+4) Обновление названия и описания объекта (PUT /product/1)
+![4](https://github.com/user-attachments/assets/34e3809e-608f-4dbf-b691-183c5b8b2d9a)
+![4 1](https://github.com/user-attachments/assets/97c43baa-ed97-480d-ba73-c11a87b0e565)
+
+5) Удаление продукта (DELETE /product/1)
+![5](https://github.com/user-attachments/assets/68e065e9-6f53-414a-b3d9-d1d93a238458)
+![5 1](https://github.com/user-attachments/assets/f1dd1664-01ae-4397-b1c1-70b150a2600a)
+
 
 ### Задание В (4 балла)
 Пусть ваш продукт также имеет иконку (небольшую картинку). Формат иконки (картинки) может
@@ -84,7 +100,9 @@ todo
 ```
 
 #### Демонстрация работы
-todo
+1) Добавим продукту лого
+![6](https://github.com/user-attachments/assets/f190ead0-700c-4355-aa2b-15990e7a3960)
+![6 1](https://github.com/user-attachments/assets/b382ea3e-7b4f-4e0a-9511-f1fdecccecb3)
 
 ---
 
