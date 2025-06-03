@@ -9,6 +9,7 @@ lib/
 lib64/
 out/
 target/
+lab04_cache/
 
 *.exe
 *.exe~
