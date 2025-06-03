@@ -1,0 +1,3 @@
+# домены или подстроки URL по одному в строке
+badexample.com
+adultsite.com 
