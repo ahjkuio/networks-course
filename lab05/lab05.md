@@ -14,9 +14,6 @@
 Приложите скриншоты полученных сообщений (для обоих форматов).
 
 #### Демонстрация работы
-![image](https://github.com/user-attachments/assets/e8ffc6c9-2d70-4668-80a4-f54aeb17984f)
-![image](https://github.com/user-attachments/assets/ec40c90c-6c1c-4131-9bcf-fdd2a3ca30d8)
-![image](https://github.com/user-attachments/assets/77a1a913-046b-43b2-8d71-d6db247eafd3)
 
 ![image](https://github.com/user-attachments/assets/e8ffc6c9-2d70-4668-80a4-f54aeb17984f)
 ![image](https://github.com/user-attachments/assets/ec40c90c-6c1c-4131-9bcf-fdd2a3ca30d8)
@@ -36,8 +33,6 @@
 #### Демонстрация работы
 ![image](https://github.com/user-attachments/assets/4e200ba7-93a4-49b3-bc65-13bf4a61336f)
 
-![image](https://github.com/user-attachments/assets/4e200ba7-93a4-49b3-bc65-13bf4a61336f)
-
 
 ### 3. SMTP-клиент: бинарные данные (2 балла)
 Модифицируйте ваш SMTP-клиент из предыдущего задания так, чтобы теперь он мог
@@ -47,9 +42,6 @@
 
 #### Демонстрация работы
 ![image](https://github.com/user-attachments/assets/3daaf96e-3af4-4417-8909-8f6bdb43dfb3)
-
-![image](https://github.com/user-attachments/assets/3daaf96e-3af4-4417-8909-8f6bdb43dfb3)
-
 
 ---
 
@@ -72,9 +64,6 @@ Paint (на стороне сервера). Или запустить консо
 ![image](https://github.com/user-attachments/assets/63f679e3-afc8-42cc-82b2-5378b3d259f1)
 ![image](https://github.com/user-attachments/assets/ea2e8d0f-6e53-402e-8c0e-b70891491fa2)
 
-![image](https://github.com/user-attachments/assets/63f679e3-afc8-42cc-82b2-5378b3d259f1)
-![image](https://github.com/user-attachments/assets/ea2e8d0f-6e53-402e-8c0e-b70891491fa2)
-
 
 ### В. Широковещательная рассылка через UDP (2 балла)
 Реализуйте сервер (веб-службу) и клиента с использованием интерфейса Socket API, которая:
@@ -84,9 +73,6 @@ Paint (на стороне сервера). Или запустить консо
 
 #### Демонстрация работы
 ![image](https://github.com/user-attachments/assets/99323037-cb22-4320-9448-430e6e488dd3)
-
-![image](https://github.com/user-attachments/assets/99323037-cb22-4320-9448-430e6e488dd3)
-
 
 ## Задачи
 
@@ -243,9 +229,6 @@ $\Delta T = T_{\text{непост}} - T_{\text{пост}} \approx 13413.334 - 13
 
 #### Решение
 ![image](https://github.com/user-attachments/assets/684ea482-6292-46f1-a614-5bd33365ed22)
-
-![image](https://github.com/user-attachments/assets/684ea482-6292-46f1-a614-5bd33365ed22)
-
 
 ### Задача 3 (3 балла)
 Рассмотрим клиент-серверную раздачу файла размером $F$ бит $N$ пирам, при которой сервер
